@@ -1,2 +1,2 @@
 # webOpti
-Actualización pagina web optiener a 2.0, cambiando las tecnologías, el aspecto totalemtne y  priemros pasos son Heroku.
+Actualización pagina web optiener a 2.0 cambiar FrontEnd Primeros pasos son Heroku.
